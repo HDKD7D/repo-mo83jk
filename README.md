@@ -1,8 +1,10 @@
 September 16, 2026
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: moneta66@aol.com, poolmh81@yahoo.com
-At: 2026-09-16 13:38:30
-Id: xkIZZxaC
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: robertstrang2@hotmail.com, ethanism@hotmail.com
+At: 2026-09-16 13:39:08
+Id: ElmYRL8X
